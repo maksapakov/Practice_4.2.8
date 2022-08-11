@@ -5,7 +5,7 @@ public class ExceptionWork {
 
     public static void moveRobot(RobotConnectionManager robotConnectionManager, int toX, int toY) {
         RobotConnection robotConnection = robotConnectionManager.getConnection();
-        
+
     }
 
 
